@@ -14,7 +14,7 @@
 
 // TODO: reference additional headers your program requires here
 
-#define USE_PLATFORMAPI	1
+#define USE_PLATFORMAPI	0
 
 #define USE_XPLATFORMAPI 1
 
